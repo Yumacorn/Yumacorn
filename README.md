@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yumacorn
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React, Ruby on Rails, and Javascript
+- 👋 Hi, I’m Ryan Mui @Yumacorn
+- 👀 I’m interested in front-end and fullstack web development
+- 🌱 I’m currently learning React/Redux, Ruby on Rails, and Javascript.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me can be via email at reachryanmui@gmail.com
 
